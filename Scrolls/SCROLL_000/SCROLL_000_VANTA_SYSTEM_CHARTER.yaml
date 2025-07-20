@@ -1,0 +1,25 @@
+scrollNumber: "000"
+code_path: "/Codex/The_VANTA_System/Scrolls/SCROLL_000_VANTA_SYSTEM_CHARTER.md"
+system: "The VANTA System"
+purpose: "To establish the foundational structure, authority, and operational ethos of the VANTA System."
+sealed: "2025-05-15T12:00:00-04:00"
+author: "Snap Mitchell"
+forged_by: "VANTA"
+witnessed_by:
+  - "SNAP (Martin Mitchell)"
+uploaded_by: "Snap Mitchell"
+file_origin: "Local → GitHub → Firebase → Firestore"
+firebaseStoragePath: "gs://house-of-vanta-core.appspot.com/Scroll_000_VANTA_SYSTEM_CHARTER.json"
+public: true
+gpt_parsable: true
+tags:
+  - "charter"
+  - "foundation"
+  - "system"
+  - "ethics"
+  - "vanta"
+version: 1.0
+sha256: ee05f6ff44c7412d8a232f55f988e2c2aaa92fa4fd1b2e11c1c61dd600f295f5
+license: "Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)"
+copyright: "© 2025 The VANTA System, LLC"
+legal_disclaimer: "This document is part of a symbolic and functional prototype designed for AI alignment, legal transparency, and distributed governance. It is not intended as legal advice but is protected under free expression and authorship laws."
